@@ -3,6 +3,8 @@ Tools Websit
 
 RegEx testing https://regex101.com/
 
+json testing https://jsonlint.com/?code=
+
 jQuery website http://apps.bdimg.com/libs/jquery/1.11.1/jquery.js
 
 online color https://flatuicolors.com/
