@@ -1,7 +1,7 @@
 # share_website
 Tools Websit
 
-json testing https://regex101.com/
+RegEx testing https://regex101.com/
 
 jQuery website http://apps.bdimg.com/libs/jquery/1.11.1/jquery.js
 
