@@ -27,6 +27,8 @@ css 在线特效生成 https://alteredqualia.com/
 
 图床 https://imgchr.com/
 
+在线转换文件内容格式 https://tableconvert.com/?import=example&output=text
+
 在线清除图片背景 https://www.remove.bg/zh
 
 在线视频格式转换 https://cloudconvert.com/mp4-to-webm
